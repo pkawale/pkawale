@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there!👋
+
+### My name is Parijat Kawale pursuing Master's in Computer Science at RIT.
+
 
 <!--
 **pkawale/pkawale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

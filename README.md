@@ -2,8 +2,8 @@
 
 ### My name is Parijat Kawale pursuing Master's in Computer Science at RIT.
 
-- 🔭 I’m currently working on honing my skills in Machine Learning implementations in Java.
-- 💬 Ask me about Angular and developing frontend technologies.
+- 🔭 I’m currently working on honing my skills in React.js and machine learning implementations in Java.
+- 💬 Ask me about Angular and React.js. 
 - 😄 Pronouns: He/Him
 
   
